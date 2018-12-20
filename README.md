@@ -1,2 +1,7 @@
-# python3_study
-Study python3 
+# python_study
+## IDE
+	1. PyCharm
+
+## Sample
+
+
